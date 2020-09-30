@@ -1,0 +1,49 @@
+body{
+    font: 20px Arial;
+}
+
+.navbar{
+    background-color: #298a08;
+}
+
+.rounded-circle{
+    border: 4px white solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.quem-somos{
+    background-color: lightgray;
+    color: white;
+}
+
+.margin {
+   padding-bottom: 20px;
+   padding-top: 10px;
+}
+
+.parceiros{
+    background-color: teal;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+#parceiros{
+    color: white;
+}
+
+#servicos{
+    color: white;
+    background-color: lightgray;
+}
+
+.rodape{
+    margin-top: 10px;
+}
+
+.subtitulo{
+    padding-bottom: 20px;
+}
